@@ -1,0 +1,26 @@
+{
+  "name": "sector_of_circle",
+  "version": "0.0.1",
+  "description": "Calculates other properties of a sector using its radius and angle",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheCloneInternship/week2.git"
+  },
+  "keywords": [
+    "sector",
+    "area",
+    "circle",
+    "perimeter",
+    "angle"
+  ],
+  "author": "Joseph Isaac",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheCloneInternship/week2/issues"
+  },
+  "homepage": "https://github.com/TheCloneInternship/week2#readme"
+}
