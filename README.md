@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sector_of_Circle
 
 sectorOfCircle(args) returns an object with properties; 
@@ -11,3 +12,6 @@ The function accepts 4 arguments:
               1 implies input angle is in degree 
       disp->  1 implies that all of the sector's properties should be displayed in console 
               0 implies nothing should be displayed in console  
+=======
+# Sector_of_Circle
+>>>>>>> parent of 7b42439 (Update README.md)
